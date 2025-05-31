@@ -83,11 +83,3 @@ My unique strength lies in combining strong backend engineering skills with data
 </div>
 
 ---
-
-## 📫 Reach Out
-
-- 📧 Email: josejuma397@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/joseph-juma-867511355)  
-
-
----
