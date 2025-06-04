@@ -1,6 +1,6 @@
 # 👋, I'm Joseph
-Results-driven Data Scientist/Analyst/Engineer with hands-on experience building end-to-end machine learning solutions—from data ingestion and modeling to deployment. Combines strong backend engineering with data expertise to turn complex data into actionable insights.
 
+Data Scientist/Analyst/Engineer with 1 year of experience delivering end-to-end ML solutions—from data collection and preprocessing to model development and deployment. Leverages solid backend engineering and data skills to drive meaningful, insight-driven outcomes.
 ---
 
 ## 🧰 Tech Stack
