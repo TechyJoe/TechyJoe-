@@ -1,16 +1,12 @@
-# 👋 Hi there, I'm Joseph
-
-I’m a results-oriented **Data Scientist/ Analyst/ Engineer** with a passion for building impactful machine learning systems, especially in the **finance domain**. With hands-on experience across multiple stacks from **deep learning models** to production-grade Django APIs. I enjoy transforming data into decisions.
-
-My unique strength lies in combining strong backend engineering skills with data-driven modeling, enabling me to develop full-cycle solutions, from raw data ingestion to insights and deployment.
+# 👋, I'm Joseph
+Results-driven Data Scientist/Analyst/Engineer with hands-on experience building end-to-end machine learning solutions—from data ingestion and modeling to deployment. Combines strong backend engineering with data expertise to turn complex data into actionable insights.
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 📊 Data Science & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -28,7 +24,6 @@ My unique strength lies in combining strong backend engineering skills with data
 ![Seaborn](https://img.shields.io/badge/Seaborn-8CAAE6?style=for-the-badge&logo=seaborn&logoColor=black)
 
 ### 🧪 Backend & APIs
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,8 +32,7 @@ My unique strength lies in combining strong backend engineering skills with data
 
 ### ☁️ DevOps & Cloud
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🛠️ Data Engineering Tech Stack
 
