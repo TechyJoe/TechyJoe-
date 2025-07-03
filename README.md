@@ -1,6 +1,6 @@
 # 👋, I'm Joseph
 
-Data Scientist/Analyst with expertise in delivering end-to-end ML solutions—from data collection and preprocessing to model development and deployment. Leverages solid backend engineering and data skills to drive meaningful, insight-driven outcomes.
+Data Scientist/Analyst with expertise in delivering solutions for real world problems including data collection and preprocessing to model development and deployment. Leverages solid data skills to drive meaningful, insight-driven outcomes.
 
 ---
 
